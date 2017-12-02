@@ -1,12 +1,29 @@
-# Usage of ishanshan
+
+
+# 闪闪使用指南
 
 闪闪，成长中的 shaper 。希望这份使用指南助你与她共创愉快：）
 
 - Blog：http://ishanshan.top/
-- GitHub ：@ishanshan
+- GitHub ：[@ishanshan](https://github.com/ishanshan/)
 - Email：ishanshan.huang@gmail#com
 
+内容概览：
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+  - [skill](#skill)
+  - [collaboration](#collaboration)
+    - [communication](#communication)
+    - [schedule](#schedule)
+    - [feature](#feature)
+    - [favorite team environment](#favorite-team-environment)
+  - [life](#life)
+  - [paly](#paly)
+  - [CHANGELOG](#changelog)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## skill
 
