@@ -27,7 +27,10 @@
 
 ## skill
 
-- 较擅长：异步协同、项目管理
+- 较擅长：
+	- 异步协同
+	- 项目管理
+	- 组织[小型交流活动](http://ishanshan.top/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在关注：
 	- 个体如何实现自我教育
 	- 教学设计如何更高效
@@ -67,6 +70,7 @@
 - 不习惯在舞台中央，更习惯做幕后推手。
 - 喜欢建立规则、机制，做事情常考虑未来如何复用。
 - 讨厌没有修养的行为，比如随地吐痰、随地扔垃圾、占用公共空间后不收拾等。面对这种情况一般会先提醒对方，提醒 3 次无效后会默默远离对方。
+- 喜欢随手复盘（见 https://workflowy.com/s/CO_N.rltyKgPOoe），不想在一个地方栽倒两次。
 - 珍惜个人时间，珍惜团队时间：
 	- 痛恨队友不更新项目进展，不[更新周报](http://ishanshan.top/selfedu/TipsWeekly.html)，不更新日报同时产出不明确，导致团队难以预判困难做预案。
 	- 讨厌在 IM 渠道及 Email 接收文件，此时一般不看，或让你同步到云端后把链接发来。
