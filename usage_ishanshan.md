@@ -108,7 +108,7 @@
 
 
 
-- 喜欢摇摆舞（[Swing dance - Wikipedia](https://en.wikipedia.org/wiki/Swing_(dance))），新手进阶中
+- 最近迷上摇摆舞（[Swing dance - Wikipedia](https://en.wikipedia.org/wiki/Swing_(dance))），新手进阶中。聊到这个就两眼放光，欢迎指教~
 - 喜欢画水彩、逛展览
 - 喜欢交有一技之长的朋友
 - 享受独处，若要社交也应对从容
