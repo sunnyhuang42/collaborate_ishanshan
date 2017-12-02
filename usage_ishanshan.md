@@ -94,8 +94,8 @@
 - 控制不住眼泪。有时并非想哭，但泪目关不住。此时你给她纸巾或抱抱她，一会儿就好。
 - 有些持续了好久的习惯：
 	- 晨间日记， 2014 年 5 月至今
-	- 用 WorkFlowy 记工作日志， 2014 年 8 月至今
-	- 写周报，2015 年 7 月至今
+	- [用 WorkFlowy 记工作日志](http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html)， 2014 年 8 月至今
+	- [写周报](http://ishanshan.top/selfedu/TipsWeekly.html)，2015 年 7 月至今
 	- 每周给爸妈打电话聊聊近况，问问他们有什么需要， 2015 年 6 月至今
 	- 每周运动 4h 以上，2017 年 1 月至今
 	- 以及还有些奇怪的癖好
