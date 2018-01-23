@@ -128,7 +128,7 @@
 
 
 
-- 最近迷上摇摆舞（[Swing dance - Wikipedia](https://en.wikipedia.org/wiki/Swing_(dance))），新手进阶中。聊到这个就两眼放光，欢迎指教~
+- 最近迷上摇摆舞（见 [ishanshan/EnjoySwingDancing: A guide to a fascinating world: don't mumble, don't murmur, let the dancing do the talking 💃🏻🕺🏻](https://github.com/ishanshan/EnjoySwingDancing)），新手进阶中。聊到这个就两眼放光，欢迎指教~
 - 喜欢画水彩、逛展览、听歌剧
 - 喜欢交有一技之长的朋友
 - 享受独处，若要社交也应对从容
@@ -139,6 +139,7 @@
 
 ## CHANGELOG 
 
+- 180124 闪闪增补 EnjoySwingDancing 仓库地址
 - 171216 闪闪根据朋友提醒增补细节
 - 171203 闪闪合并各处版本
 - 171109 闪闪创建
