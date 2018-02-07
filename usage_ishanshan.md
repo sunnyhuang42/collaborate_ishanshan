@@ -32,6 +32,7 @@
 	- 项目管理
 	- 组织[小型交流活动](http://ishanshan.top/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在关注：
+	- 如何让更多人体验更多心流
 	- 个体如何实现自我教育
 	- 教学设计如何更高效
 	- 如何高效教会别人带新人
@@ -128,7 +129,7 @@
 
 
 
-- 最近迷上摇摆舞（见 [ishanshan/EnjoySwingDancing: A guide to a fascinating world: don't mumble, don't murmur, let the dancing do the talking 💃🏻🕺🏻](https://github.com/ishanshan/EnjoySwingDancing)），新手进阶中。聊到这个就两眼放光，欢迎指教~
+- 最近迷上摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html)），新手进阶中。聊到这个就两眼放光，欢迎指教~
 - 喜欢画水彩、逛展览、听歌剧
 - 喜欢交有一技之长的朋友
 - 享受独处，若要社交也应对从容
@@ -139,6 +140,7 @@
 
 ## CHANGELOG 
 
+- 180207 闪闪增补关注领域、更新链接
 - 180124 闪闪增补 EnjoySwingDancing 仓库地址
 - 171216 闪闪根据朋友提醒增补细节
 - 171203 闪闪合并各处版本
