@@ -2,7 +2,10 @@
 
 # 闪闪使用指南
 
-闪闪，成长中的 shaper 。希望这份使用指南助你与她共创愉快：）
+闪闪，成长中的 shaper 。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 
+
+希望这份使用指南助你与她共创愉快：）
+
 
 - Blog：http://ishanshan.top/
 - GitHub ：[@ishanshan](https://github.com/ishanshan/)
@@ -20,7 +23,7 @@
     - [feature](#feature)
     - [favorite team environment](#favorite-team-environment)
   - [life](#life)
-  - [paly](#paly)
+  - [play](#play)
   - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -125,21 +128,21 @@
 		- 牙膏沐浴露营养品，2005 年 6 月至今仍选 [Amway](http://www.amway.com/)  ……
 
 
-## paly
+## play
 
 
 
 - 最近迷上摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html)），新手进阶中。聊到这个就两眼放光，欢迎指教~
-- 喜欢画水彩、逛展览、听歌剧
-- 喜欢交有一技之长的朋友
-- 享受独处，若要社交也应对从容
-- 篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五-标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩~
+- 喜欢画水彩、逛展览、听歌剧。篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五-标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩 ;-)
+- 喜欢交有一技之长的朋友。享受独处，若要社交也应对从容
+- 最常看的漫画是[【神秘的程序员们】](http://chuansong.me/account/coderstory)
 - 拒绝 KTV
 - 恐高 >.<
 
 
 ## CHANGELOG 
 
+- 180227 闪闪增补一些链接和信息
 - 180207 闪闪增补关注领域、更新链接
 - 180124 闪闪增补 EnjoySwingDancing 仓库地址
 - 171216 闪闪根据朋友提醒增补细节
