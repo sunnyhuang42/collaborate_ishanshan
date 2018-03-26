@@ -31,8 +31,8 @@
 ## skill
 
 - 较擅长：
-	- 异步协同（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper 🌱](https://github.com/ishanshan/CollaborationGuide4Shaper)）
-	- 项目管理（同上）
+	- 异步协同（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
+	- 项目管理（心法更新地址同上）
 	- 组织[小型交流活动](http://ishanshan.top/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在关注：
 	- 如何让更多人体验更多心流
