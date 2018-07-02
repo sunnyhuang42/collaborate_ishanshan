@@ -2,7 +2,7 @@
 
 # 闪闪使用指南
 
-闪闪，成长中的 shaper 。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 
+闪闪，成长中的 shaper 。希望尽己所能，把周围塑造成自己想见的样子。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 
 
 希望这份使用指南助你与她共创愉快：）
 
@@ -133,16 +133,17 @@
 
 
 
-- 最近迷上摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html)），新手进阶中。聊到这个就两眼放光，欢迎指教~
+- 喜欢摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html)），尤其 blues，打怪升级中。基本每天都跳，专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。聊到这个就两眼放光，欢迎指教~ 
 - 喜欢画水彩、逛展览、听歌剧。篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五-标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩 ;-)
 - 喜欢交有一技之长的朋友。享受独处，若要社交也应对从容
-- 最常看的漫画是[《神秘的程序员们》](http://chuansong.me/account/coderstory)
+- 最常看的漫画是[《神秘的程序员们》](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E7%A5%9E%E7%A7%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%AC&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1799&sst0=1530540335811&lkt=1%2C1530540335705%2C1530540335705)
 - 拒绝 KTV
 - 恐高 >.<
 
 
 ## CHANGELOG 
 
+- 180702 闪闪修改链接和表述
 - 180326 闪闪增补异步协同心法链接，修改可约时间
 - 180303 闪闪增补喜欢的团队氛围
 - 180227 闪闪增补一些链接和信息
