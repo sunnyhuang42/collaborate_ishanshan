@@ -2,12 +2,12 @@
 
 # 闪闪使用指南
 
-闪闪，成长中的 shaper 。希望尽己所能，把周围塑造成自己想见的样子。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 
+闪闪，成长中的 shaper 。希望尽己所能，把周围塑造成自己想见的样子。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](https://ishanshan.im/selfedu/Review2017LunarCalendar.html) 。 
 
 希望这份使用指南助你与她共创愉快：）
 
 
-- Blog：http://ishanshan.top/
+- Blog：https://ishanshan.im/
 - GitHub ：[@ishanshan](https://github.com/ishanshan/)
 - Email：ishanshan.huang@gmail#com
 
@@ -33,7 +33,7 @@
 - 较擅长：
 	- 异步协同（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
 	- 项目管理（心法更新地址同上）
-	- 组织[小型交流活动](http://ishanshan.top/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
+	- 组织[小型交流活动](https://ishanshan.im/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在思索：
 	- 如何让更多人体验更多心流
 	- 个体如何实现自我教育
@@ -96,7 +96,7 @@
 	- 做事喜欢先问目的：「咱们为什么做这个事情，想解决什么问题？」 
 	- 讨厌和习得性无助的人打交道。假如你问检索几下就能得到解决方案的问题，如果你俩关系不一般，她会试着提出一些问题引导你自主动手；否则直接匿了，或甩出答案下回躲你远远的。
 	- 讨厌文档开头未[交代 5W1H](https://github.com/OpenMindClub/Share/wiki/HbDoc) ，叫人通览全文才明白这文档能否解决当前问题。
-	- 讨厌文件命名用中文的行为，因为 [命名用英文，烦恼少大半|团队文档命名指南 ](http://ishanshan.top/community/HbDocName.html)。
+	- 讨厌文件命名用中文的行为，因为 [命名用英文，烦恼少大半|团队文档命名指南 ](https://ishanshan.im/community/HbDocName.html)。
 	- 喜欢 URL 干净清晰，讨厌 URL 是短链，痛恨 URL 是乱码 —— 对，你给她后两者她会嫌弃你。
 	- 不能自由穿墙便焦躁不安，看到你也自由穿墙即会心一笑 —— 自己人。
 	- 不用盗版软件，看到你用盗版软件印象分就会降 33.33%...喜欢和不用盗版软件的人共事。
@@ -119,8 +119,8 @@
 - 对未来生活的构想，见 https://github.com/ishanshan/ForFamily 。
 - 有些持续了好久的习惯：
 	- 晨间日记， 2014 年 5 月至今
-	- [用 WorkFlowy 记工作日志](http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html)， 2014 年 8 月至今
-	- 稳定[写周报](http://ishanshan.top/selfedu/TipsWeekly.html)，2015 年 7 月至今
+	- [用 WorkFlowy 记工作日志](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)， 2014 年 8 月至今
+	- 稳定[写周报](https://ishanshan.im/selfedu/TipsWeekly.html)，2015 年 7 月至今
 	- 每周给爸妈打电话聊聊近况，问问他们有什么需要， 2015 年 6 月至今
 	- 每周运动 4h 以上，2017 年 1 月至今
 	- 以及还有些奇怪的癖好
@@ -133,7 +133,7 @@
 
 
 
-- 喜欢摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html)），尤其 blues，打怪升级中。基本每天都跳，专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。聊到这个就两眼放光，欢迎指教~ 
+- 喜欢摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](https://ishanshan.im/selfedu/YouNeedSwing.html)），尤其 blues，打怪升级中。基本每天都跳，专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。聊到这个就两眼放光，欢迎指教~ 
 - 喜欢画水彩、逛展览、听歌剧。篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五-标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩 ;-)
 - 喜欢交有一技之长的朋友。享受独处，若要社交也应对从容
 - 最常看的漫画是[《神秘的程序员们》](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E7%A5%9E%E7%A7%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%AC&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1799&sst0=1530540335811&lkt=1%2C1530540335705%2C1530540335705)
