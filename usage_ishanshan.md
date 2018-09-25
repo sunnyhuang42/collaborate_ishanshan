@@ -31,8 +31,8 @@
 ## skill
 
 - 较擅长：
-	- 异步协同（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
-	- 项目管理（心法更新地址同上）
+	- 异步协同、项目管理（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
+	- 团队知识管理
 	- 组织[小型交流活动](https://ishanshan.im/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在思索：
 	- 如何让更多人体验更多心流
@@ -82,7 +82,7 @@
 - 喜欢建立规则、机制，做事情常考虑未来如何复用。
 - 相较和事打交道的事务，更喜欢也更擅长做和人打交道的事务。
 - 喜欢用提问自我反思、引导别人思考。
-- 喜欢随手复盘，接触新信息后喜欢习惯自己基于此，应该停止做、开始做及继续保持什么（比如 https://workflowy.com/s/CO_N.rltyKgPOoe ），不想在一个地方栽倒两次。
+- 喜欢随手复盘，接触新信息后习惯思考自己基于此，应该停止做、开始做及继续保持什么（比如 https://workflowy.com/s/CO_N.rltyKgPOoe ），不想在一个地方栽倒两次。
 - 讨厌没有修养的行为，比如随地吐痰、随地扔垃圾、占用公共空间后不收拾等。面对这种情况一般会先提醒对方，提醒 3 次无效后会默默远离对方。
 - 珍惜个人时间，珍惜团队时间：
 	- 痛恨队友不更新项目进展，不更新周报，不更新日报同时产出不明确，导致团队难以预判困难做预案。
@@ -129,7 +129,7 @@
 
 
 - 喜欢摇摆舞（见 [Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](https://ishanshan.im/selfedu/YouNeedSwing.html)），尤其 blues，打怪升级中。基本每天都跳，专注一个钟蹦跶十分钟，一跳就开心，哈哈。聊到这个就两眼放光，欢迎指教~ 
-- 喜欢画水彩、逛展览、听歌剧。篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五-标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩 ;-)
+- 喜欢画水彩、逛展览、听歌剧。篮球、排球、乒乓球、羽毛球、毽子、溜冰、滑雪都会一点，处于标准五~标准六的水平；喜欢水却不咋会游泳；若不嫌弃，欢迎找她搭伴儿一起玩 ;-)
 - 喜欢交有一技之长的朋友。享受独处，若要社交也应对从容
 - 最常看的漫画是[《神秘的程序员们》](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E7%A5%9E%E7%A7%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%AC&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1799&sst0=1530540335811&lkt=1%2C1530540335705%2C1530540335705)
 - 拒绝 KTV
