@@ -32,7 +32,7 @@
 
 - 较擅长：
 	- 异步协同、项目管理（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
-	- 团队知识管理
+	- 搭建团队知识管理体系
 	- 组织[小型交流活动](https://ishanshan.im/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在思索：
 	- 如何让更多人体验更多心流
@@ -92,7 +92,7 @@
 	- 讨厌和习得性无助的人打交道。假如你问检索几下就能得到解决方案的问题，如果你俩关系不一般，她会试着提出一些问题引导你自主动手；否则直接匿了，或甩出答案下回躲你远远的。
 	- 讨厌文档开头未[交代 5W1H](https://github.com/OpenMindClub/Share/wiki/HbDoc) ，叫人通览全文才明白这文档能否解决当前问题。
 	- 讨厌文件命名用中文的行为，因为 [命名用英文，烦恼少大半|团队文档命名指南 ](https://ishanshan.im/community/HbDocName.html)。
-	- 喜欢 URL 干净清晰，讨厌 URL 是短链，痛恨 URL 是乱码 —— 对，你给她后两者她会嫌弃你。
+	- 喜欢 URL 干净清晰，讨厌 URL 是短链，痛恨 URL 是乱码 —— 后两者会给未来取用徒增不便。
 	- 不能自由穿墙便焦躁不安，看到你也自由穿墙即会心一笑 —— 自己人。
 	- 不用盗版软件，看到你用盗版软件印象分就会降 33.33%...喜欢和不用盗版软件的人共事。
 - 常用工具见 [IdxCooperateBasicSkill · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)。
@@ -138,7 +138,8 @@
 
 ## CHANGELOG 
 
-- 180810 修改日程习惯
+- 180927 闪闪增补对 URL 偏好的原因
+- 180810 闪闪修改日程习惯
 - 180702 闪闪修改链接和表述
 - 180326 闪闪增补异步协同心法链接，修改可约时间
 - 180303 闪闪增补喜欢的团队氛围
