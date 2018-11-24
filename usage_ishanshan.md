@@ -6,8 +6,7 @@
 
 前路漫浩浩，修己以安人。希望尽己所能，把周围塑造成自己想见的样子。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](https://ishanshan.im/selfedu/Review2017LunarCalendar.html) 。 
 
-希望这份使用指南助你与她共创愉快：）
-
+人如产品，希望这份[闪闪使用指南](usage_ishanshan.md)，助你与她创造更多价值，共创愉快。也期待你把个人使用指南共享给她——接口清晰，磨合更畅快：P
 
 - Blog：https://ishanshan.im/
 - GitHub ：[@ishanshan](https://github.com/ishanshan/)
