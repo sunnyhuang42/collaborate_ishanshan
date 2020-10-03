@@ -1,4 +1,10 @@
-# 《闪闪使用指南》维护说明
+English version . 
+
+People are like products, I hope this guide to Shining use will help you and her create more value:)
+
+You are welcome to add more at any time, so that more people can create happily with her. Submit a pull request for revision, or issue exchanges are OK~
+
+I also look forward to sharing your personal usage guide with her to speed up the running-in: P
 
 人如产品，希望这份[闪闪使用指南](usage_ishanshan.md)，助你与她创造更多价值：）
 
