@@ -18,9 +18,9 @@
 * 和家人（伴侣父母孩子）的关系很好，彼此是好朋友，相互陪伴成长，一起面对生活的挑战。即使艰难，也能苦中作乐，享受这个过程。
 * 能轻松看见不同人的诉求，并找到合适的解决方案去满足。并做出了 1-3 款用户喜爱且可持续发展的产品。
 
-具体到每天，是这样的节律：
+具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa)直接查看）：
 
-[每周节律](https://docs.qq.com/sheet/DVVhTVUxwbEFHbVVK?tab=BB08J2 ':include :type=iframe width=100% height=700px') 
+[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa ':include :type=iframe width=100% height=700px')
 
 
 
@@ -29,6 +29,7 @@
 
 ## CHANGELOG
 
+- 210807 更新节律表的地址
 - 210612 根据心流理论增补关于复杂的乐趣部分
 - 210512 完善理想生活的关键词
 - 210511 添加每周节律、修改生活画面的名称
