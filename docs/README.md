@@ -15,9 +15,18 @@
 ### 最近 1-2 个月在关注/思考的主要问题：
 
 
+1. 在未来 1-2 个大的人生周期（到 48 岁）里，我要如何发展？		
+2. 下一步发力重点是什么？		
 
-1. 如何促进彼此持续输出？
-2. 「输出实验室」未来理想的发展状态是怎样的？演进路径是怎样的？
+更多细致的子问题，见 [想探索的问题清单_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed) 。
+
+<details>
+<summary> 如果想预览上述文档，可点这里（移动端无法预览，请点上述文档直接看原文）：  </summary>
+
+[embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed ':include :type=iframe width=100% height=600px')
+
+</details>
+
 
 
 
@@ -91,6 +100,7 @@
 
 ## CHANGELOG
 
+- 210812 更新最近在关注思考的问题
 - 210712 添加约我时间的锦囊
 - 210628 添加「以终为始」的相关材料
 - 210621 增补卡片层级输出空间的入口
