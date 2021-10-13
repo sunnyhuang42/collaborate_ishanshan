@@ -1,34 +1,32 @@
 ## About Me
+最后更新于 2021-10-04，创建于 2018-07-02
+
+<br> 
 
 
-
-[@闪闪-ishanshan](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，坐标北京。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，期待过上[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](about/idealife)。
-
-之前六年一直在互联网行业，做过教研、运营、学习与发展教练、产品。虽然他们看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。
-
-目前处于职业转型阶段，在探索把自己一份时间卖出多次的可能。
-
-<br>
-
-[embed](_eb_outputchannel_card.md ':include')
-
-### 最近 1-2 个月在关注/思考的主要问题：
+[@闪闪-ishanshan](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，坐标北京。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](about/idealife)。
 
 
-1. 在未来 1-2 个大的人生周期（到 48 岁）里，我要如何发展？		
-2. 下一步发力重点是什么？		
+之前六年一直在互联网行业，做过教研、运营、学习与发展教练、产品。虽然这些看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。目前处于职业转型阶段，在探索把自己一份时间卖出多次的可能。
 
-更多细致的子问题，见 [想探索的问题清单_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed) 。
+如果你想直观了解我，这期播客是个很好的入口：<br> 
+[闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 
-<details>
-<summary> 如果想预览上述文档，可点这里（移动端无法预览，请点上述文档直接看原文）：  </summary>
+### 近几个月在关注/思考的主要问题：
 
-[embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed ':include :type=iframe width=100% height=600px')
+主要是验证我对“如何助力彼此实现目标，更快更稳地迈向幸福人生（flourishing life）”的假设：
 
-</details>
+> 1. 如何让用户更乐意且持续地分享行动进展/反思/触动/收获/需求/感谢？ #M8-M11（M~Month）
+> 2. 如何生产优质工具包？如何持续不断地产出优质工具包？#M8-M11
+>     1. 这种共创场景怎么推进更好？包括流程、工具等
+>     2. 典型场景行动工具包的整理方法、流程是怎样的？
+>     3. 用户在上手阶段常面临的卡点、误区及原因有哪些？
+>         - 这个阶段，北极星指标定为什么好？生产者的练习意愿？
+>     5. 如何让上述生产方法，可持续运转，源源不断地生产更多场景的工具包？
+> 3. 如何让用户更轻松地定出好目标和规划？#M8-M12
+> 4. 如何既能实现愿景，又能盈利？ #M11-M12
 
-
-
+详见：[输出实验室未来半年探索规划](f_output/helpwanted?id=background)
 
 
 ### 能提供的帮助：
@@ -45,7 +43,7 @@
 
     所以如果你有**具体的实践疑难**，欢迎和我交流，线上线下都可以 🤗 联系方式见文末。
 
-2. 更多需要的帮助，详见 [输出实验室 需要哪些支持？](https://ishanshan.im/#/f_output/helpwanted)
+2. 更多需要的帮助，详见 [输出实验室 需要哪些支持？](f_output/helpwanted)
 
 
 
@@ -86,21 +84,37 @@
 
 如果你有疑问建议、想交流的话题，或希望听我聊的内容，欢迎通过以下方式告诉我：
 
-- 到我的知识星球提问或留言：[闪闪的人生实验室](https://t.zsxq.com/Vrzji2B)
-- 邮件联系 ishanshan.huang#gmail.com
-- 微信联系 ishanshan42 (请注明来意)
+1. 到我的知识星球提问或留言，入口见下文
+2. 邮件联系 ishanshan.huang#gmail.com
+3. 微信联系 ishanshan42 (请注明来意)
 
 
-如果希望我快速响应你的需求，可参考这个小锦囊[《如何更易约到我？》](about/booking.md) 。
+若希望我快速响应你的需求，可参考这个小锦囊[《如何更易约到我？》](about/booking.md) 。
 
 欢迎指教;-)
 
+<br>
+
+[embed](_eb_outputchannel_card.md ':include')
 
 
 
+<br> 
+
+---
+
+
+读者留言：
+
+![blogcomment_about.png](http://ishanshan.zoomquiet.top/share/blogcomment_about.png)
+
+^截图于 210525
 
 ## CHANGELOG
 
+- 211004 添加播客链接
+- 211003 更新近期在思考的问题和组块顺序 0.5h
+- 210920 附上过往读者留言
 - 210825 把[输出实验室 需要哪些支持？](https://ishanshan.im/#/f_output/helpwanted)添加到需要的帮助里
 - 210812 更新最近在关注思考的问题
 - 210712 添加约我时间的锦囊
