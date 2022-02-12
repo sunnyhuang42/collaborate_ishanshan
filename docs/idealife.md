@@ -1,7 +1,7 @@
 # 理想生活
-最后更新于 2021-09-27，起草于 2021-03-03
+最后更新于 2021-10-25，起草于 2021-03-03
 
-<br> 
+<br>
 
 > 持续记录迭代自己期待的生活。
 
@@ -14,29 +14,37 @@
 展开来初步想到这些要素：
 * 节律健康地阅读写作。包括增进对自己和这个世界的理解、记录分析所思所感、让更多伙伴少走弯路。
 * 每月都和三五师友交流新知、进展，相互鼓励支持。和不同领域、有实践和智慧的师友。
-* 每年都有自己喜欢的变化，在 SML(Self-awareness, Motivation, Learning ability) 、人生资本上都有不错的长进，能解决越来越复杂的问题、享受越来越复杂的乐趣，也助更多伙伴易于有变化。
-* 不用为金钱担忧，已经进入能把自己一份时间卖出多次的状态，即使不上班，生活质量也不受影响。
+* 每年都有自己喜欢的变化，在 SML(Self-awareness, Motivation, Learning ability)[^1]、人生资本上都有不错的长进，能解决越来越复杂的问题、享受越来越复杂的乐趣，也助更多伙伴易于有变化。
+* 富有，且能把自己一份时间卖出多次，即使不上班，生活质量也不受影响。
 * 健身、跳舞，每周 2-4 次锻炼，健康自在有活力。
 * 每天有好吃的饭菜，营养均衡。
 * 家人的病痛烦恼，我都能帮助解决，让他们尽可能安康幸福。
 * 和家人（伴侣父母孩子）的关系很好，彼此是好朋友，相互陪伴成长，一起面对生活的挑战。即使艰难，也能苦中作乐，享受这个过程。
 * 能轻松看见不同人的诉求，并找到合适的解决方案去满足。并做出了 1-3 款用户喜爱且可持续发展的产品。
 
-具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa)直接查看）：
+具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd)直接查看）：
 
-[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa ':include :type=iframe width=100% height=700px')
+[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd ':include :type=iframe width=100% height=700px')
 
 
 
 我给这个画面起的标题是：「健康蓬勃 温暖从容」的幸福生活
 
+## 葬礼想象
+
+[embed](_eb_funeral.md ':include')
 
 ## 个人发展规划
 
 详见[发展规划](about/plan_lifedev.md) 。
 
+## footnote
+
+[^1]: SML 是我前东家用于评估人才潜力的模型。更多信息，可参考[这里](selfedu/review2021Q1?id=sml)。
+
 ## CHANGELOG
 
+- 211025 更新对财务的期待和葬礼想象
 - 210927 增加个人发展规划的文档地址
 - 210807 更新节律表的地址
 - 210612 根据心流理论增补关于复杂的乐趣部分
